@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>auto-favorites</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home_fusion_prop_logo备份" transform="translate(-96, -228)">
+            <g id="BAR" transform="translate(96, 28)">
+                <g id="auto-favorites" transform="translate(0, 200)">
+                    <rect id="space" x="0" y="0" width="372" height="40"></rect>
+                    <g id="FAVORITES" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                        <polygon id="路径" points="0 0 12 0 12 2 2 2 2 8 10 8 10 10 2 10 2 18 0 18"></polygon>
+                        <path d="M20,0 L22,0 L22,4 L20,4 L20,0 Z M18,4 L20,4 L20,8 L18,8 L18,4 Z M22,4 L24,4 L24,8 L22,8 L22,4 Z M24,10 L24,8 L26,8 L26,14 L24,14 L24,12 L18,12 L18,14 L16,14 L16,8 L18,8 L18,10 L24,10 Z M14,14 L16,14 L16,18 L14,18 L14,14 Z M26,14 L28,14 L28,18 L26,18 L26,14 Z" id="形状"></path>
+                        <path d="M30,0 L32,0 L32,4 L30,4 L30,0 Z M42,0 L44,0 L44,4 L42,4 L42,0 Z M32,4 L34,4 L34,10 L32,10 L32,4 Z M40,4 L42,4 L42,10 L40,10 L40,4 Z M34,10 L36,10 L36,14 L34,14 L34,10 Z M38,10 L40,10 L40,14 L38,14 L38,10 Z M36,14 L38,14 L38,18 L36,18 L36,14 Z" id="形状"></path>
+                        <path d="M56,2 L50,2 L50,0 L56,0 L56,2 Z M48,2 L50,2 L50,4 L48,4 L48,2 Z M56,2 L58,2 L58,4 L56,4 L56,2 Z M46,4 L48,4 L48,14 L46,14 L46,4 Z M58,4 L60,4 L60,14 L58,14 L58,4 Z M48,14 L50,14 L50,16 L48,16 L48,14 Z M56,14 L58,14 L58,16 L56,16 L56,14 Z M56,16 L56,18 L50,18 L50,16 L56,16 Z" id="形状"></path>
+                        <path d="M72,2 L74,2 L74,8 L72,8 L72,2 Z M68,12 L70,12 L70,14 L68,14 L68,12 Z M70,14 L72,14 L72,16 L70,16 L70,14 Z M62,0 L72,0 L72,2 L64,2 L64,8 L72,8 L72,10 L68,10 L68,12 L66,12 L66,10 L64,10 L64,18 L62,18 L62,0 Z M72,16 L74,16 L74,18 L72,18 L72,16 Z" id="形状"></path>
+                        <polygon id="路径" points="78 2 76 2 76 0 82 0 82 2 80 2 80 16 82 16 82 18 76 18 76 16 78 16"></polygon>
+                        <polygon id="路径" points="90 2 84 2 84 0 98 0 98 2 92 2 92 18 90 18"></polygon>
+                        <polygon id="路径" points="100 0 112 0 112 2 102 2 102 8 110 8 110 10 102 10 102 16 112 16 112 18 100 18"></polygon>
+                        <path d="M124,2 L116,2 L116,0 L124,0 L124,2 Z M124,2 L126,2 L126,4 L124,4 L124,2 Z M114,2 L116,2 L116,6 L114,6 L114,2 Z M116,6 L118,6 L118,8 L116,8 L116,6 Z M118,8 L122,8 L122,10 L118,10 L118,8 Z M122,10 L124,10 L124,12 L122,12 L122,10 Z M114,14 L116,14 L116,16 L114,16 L114,14 Z M124,12 L126,12 L126,16 L124,16 L124,12 Z M124,16 L124,18 L116,18 L116,16 L124,16 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
