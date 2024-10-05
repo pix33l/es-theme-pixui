@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Theme: PIXUI
+Author: PIX3L
+-->
+<theme>
+  <formatVersion>7</formatVersion>
+
+    <variables>
+      <bodyFont>./assets/fusion-pixel-12px-proportional-zh_hans.ttf</bodyFont>
+      <fontNormalColor>ffffff99</fontNormalColor>
+    </variables>
+    
+  <include name="ES Header">./header.xml</include>
+  
+  <view name="menu">
+  
+    <menuText name="menutitle">
+      <fontPath>${bodyFont}</fontPath>
+      <fontSize>0.05</fontSize><!-- 16px -->
+      <color>ffffff</color>
+    </menuText>
+	
+    <menuText name="menufooter,menutextsmall">
+      <fontPath>${bodyFont}</fontPath>
+      <fontSize>0.0375</fontSize><!-- 12px -->
+      <color>ffffff33</color>
+    </menuText>
+	
+    <menuText name="menutext">
+      <fontPath>${bodyFont}</fontPath>
+      <fontSize>0.05625</fontSize><!-- 18px -->
+      <color>${fontNormalColor}</color>
+      <selectorColor>ffffff</selectorColor>
+      <selectedColor>000000</selectedColor>
+      <separatorColor>ffffff00</separatorColor>
+    </menuText>
+
+    <menuTextEdit name="menutextedit">
+      <inactive>./assets/menu-textinput.png</inactive>
+      <active>./assets/menu-textinput-active.png</active>
+    </menuTextEdit>
+	
+    <menuBackground name="menubg">
+      <color>000000</color>
+    </menuBackground>
+	
+  </view>
+  
+  <view name="system">
+
+    <image name="staticBackground">
+      <size>1 1</size>
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <tile>false</tile>
+      <path>./assets/bg.png</path>
+      <zIndex>0</zIndex>
+    </image>
+
+    <image name="logo">
+      <path>./art/${system.theme}.svg</path>
+    </image>
+
+    <text name="logoText">
+      <selectorColor>ffffff</selectorColor>
+      <fontPath>${bodyFont}</fontPath>
+      <forceUppercase>0</forceUppercase>
+      <fontSize>0.05625</fontSize><!-- 18px -->
+      <color>ffffff</color>
+      <alignment>center</alignment>
+    </text>
+
+    <text name="systemInfo">
+      <visible>false</visible>
+    </text>
+
+    <carousel name="systemcarousel" extra="true">
+      <type>vertical</type>
+      <pos>0.2 0.0625</pos><!-- 96px 28px -->
+      <size>0.775 0.875</size><!-- 372px 280px -->
+      <origin>0 0</origin>
+      <color>00000000</color>
+      <maxLogoCount>7</maxLogoCount>
+      <logoScale>1</logoScale>
+      <itemStacking>descending</itemStacking>
+      <logoSize>0.775 1</logoSize><!-- 372px -->
+      <logoPos>0 0</logoPos>
+      <fastScrolling>true</fastScrolling>
+    </carousel>
+	
+  </view>
+
+     <view name="basic, detailed">
+      <textlist name="gamelist">
+      <selectorColor>ffffff</selectorColor>
+      <selectedColor>ffffff</selectedColor>
+      <primaryColor>${fontNormalColor}</primaryColor>
+      <secondaryColor>${fontNormalColor}</secondaryColor>
+      <fontPath>${bodyFont}</fontPath>
+      <fontSize>0.05625</fontSize><!-- 18px -->
+      <pos>0.2 0.0875</pos>
+      <size>0.775 0.875</size>
+      <alignment>left</alignment>
+      <horizontalMargin>0.05</horizontalMargin><!-- 24x -->
+      <origin>0 0</origin>
+      <lineSpacing>1.75</lineSpacing>
+      <selectorImagePath>./assets/selector_bar_basic.png</selectorImagePath>
+      <selectorOffsetY>-0.00625</selectorOffsetY>
+      <selectorOffsetX>-0.05</selectorOffsetX>
+      <selectorHeight>0.125</selectorHeight>
+    </textlist>
+
+
+    <text name="system_name" extra="true">
+      <text>${system.fullName}</text>
+      <fontPath>${bodyFont}</fontPath>
+      <forceUppercase>0</forceUppercase>
+      <pos>0.25 0.01875</pos><!-- 120px 6px -->
+      <size>0.75 0.05</size><!-- 360px 16px -->
+      <color>ffffff</color>
+      <alignment>left</alignment>
+      <fontSize>0.05</fontSize><!-- 16x -->
+      <zIndex>2</zIndex>
+    </text>
+
+   </view>
+
+  <view name="detailed">
+	
+    <textlist name="gamelist">
+      <pos>0.025 0.0875</pos>
+      <size>0.525 0.875</size>
+      <selectorImagePath>./assets/selector_bar.png</selectorImagePath>
+    </textlist>
+    
+	  <text name="system_name" extra="true">
+      <pos>0.075 0.01875</pos>
+    </text>
+	
+    <text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_releasedate">
+      <visible>false</visible>
+    </text>
+
+    <rating name="md_rating">
+      <visible>false</visible>
+    </rating>
+	
+    <image name="md_thumbnail">
+      <visible>false</visible>
+    </image>
+	
+    <video name="md_video">
+	    <origin>0.5 0.5</origin>
+      <pos>0.7875 0.325</pos>
+      <maxSize>0.375 0.45</maxSize>
+      <delay>3</delay>
+      <showSnapshotNoVideo>true</showSnapshotNoVideo>
+      <showSnapshotDelay>true</showSnapshotDelay>
+      <snapshotSource>thumbnail</snapshotSource>
+	    <effect>none</effect>
+    </video>
+	
+    <text name="md_description">
+	    <pos>0.6 0.6</pos>
+      <size>0.375 0.375</size>
+      <color>${fontNormalColor}</color>
+      <fontSize>0.0375</fontSize><!-- 12px -->
+      <fontPath>${bodyFont}</fontPath>
+	  </text>
+    
+	</view>
+
+  <view name="grid">
+	  <imagegrid name="gamegrid">
+      <systemNameSuffix>true</systemNameSuffix>
+      <pos>0.025 0.0875</pos><!-- 12px 28px -->
+      <size>0.95 0.875</size><!-- 456px 280px -->
+      <autoLayoutSelectedZoom>1</autoLayoutSelectedZoom>
+      <imageSource>image</imageSource>
+      <scrollDirection>vertical</scrollDirection>
+      <autoLayout>3 2</autoLayout>
+      <margin>0.00625 0.00625</margin><!-- 3px 2px -->
+      <padding>0.00625 0.00625 0 0</padding><!-- 3px 2px -->
+      <animateSelection>false</animateSelection>
+      <maxlength>0.5</maxlength>
+    </imagegrid>
+
+    <gridtile name="default">
+      <backgroundColor>ffffff00</backgroundColor>
+      <selectionMode>image</selectionMode>
+      <imageColor>ffffff80</imageColor>
+    </gridtile>
+
+    <gridtile name="selected">
+      <backgroundCenterColor>ffffff00</backgroundCenterColor>
+      <backgroundEdgeColor>ffffff00</backgroundEdgeColor>
+      <imageColor>ffffff</imageColor>
+    </gridtile>
+
+    <text name="gridtile, gridtile_selected, md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_releasedate">
+      <visible>false</visible>
+    </text>
+  
+    <rating name="md_rating">
+      <visible>false</visible>
+    </rating>
+
+    <text name="md_name">
+      <color>ffffff</color>
+      <forceUppercase>0</forceUppercase>
+      <fontPath>${bodyFont}</fontPath>
+      <alignment>left</alignment>
+      <fontSize>0.05</fontSize>
+      <pos>0.025 0.01875</pos>
+      <size>0.75 0.05</size>
+    </text>
+
+     <video name="md_video">
+      <visible>false</visible>
+     </video>
+
+	   <image name="gridtile.favorite">
+      <path>./assets/favorites.svg</path>
+      <pos>0 0</pos>
+      <maxSize>0.25 0.25</maxSize>
+      <origin>0 0</origin>
+      <color>ffffff80</color>
+     </image>
+
+     <image name="gridtile.favorite:selected">
+      <path>./assets/favorites.svg</path>
+      <color>ffffff</color>
+     </image>
+
+     <image name="gridtile.cheevos">
+      <path>./assets/cheevos.svg</path>
+      <pos>0 1</pos>
+      <maxSize>0.25 0.25</maxSize>
+      <origin>0 1</origin>
+      <color>ffffff80</color>
+     </image>
+
+     <image name="gridtile.cheevos:selected">
+      <path>./assets/cheevos.svg</path>
+      <color>ffffff</color>
+     </image>
+
+  </view>
+  
+</theme>
