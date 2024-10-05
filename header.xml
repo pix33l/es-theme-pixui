@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Theme: PIXUI
+Author: PIX3L
+-->
+<theme>
+  <formatVersion>7</formatVersion>
+  
+  <view name="screen">
+    <text name="clock">
+      <origin>0 0</origin>
+      <pos>0.8125 0.01875</pos><!-- 390px 6px -->
+      <size>0.075 0.05</size><!-- 36px 16px -->
+      <fontSize>0.0375</fontSize><!-- 12px -->
+      <color>FFFFFF</color>
+      <horizontalAlignment>center</horizontalAlignment>
+      <verticalAlignment>center</verticalAlignment>
+      <fontPath>${bodyFont}</fontPath>
+    </text>
+
+    <batteryIndicator name="batteryIndicator">
+      <origin>0 0</origin>
+      <pos>0.9 0.01875</pos><!-- 432px 6px -->
+      <size>0.0375 0.05</size><!-- 18px 16px -->
+      <color>FFFFFF</color>
+      <full>./assets/full.svg</full>
+      <at75>./assets/75.svg</at75>
+      <at50>./assets/50.svg</at50>
+      <at25>./assets/25.svg</at25>
+      <empty>./assets/empty.svg</empty>
+      <incharge>./assets/charging.svg</incharge>
+    </batteryIndicator>
+  </view>
+
+  <view name="system">
+    <helpsystem name="help">
+      <fontPath>${bodyFont}</fontPath>
+	    <textColor>FFFFFF</textColor>
+      <iconColor>FFFFFF</iconColor>
+      <fontSize>0.0375</fontSize><!-- 12px -->
+    </helpsystem>
+  </view>
+  
+  <view name="basic, detailed, grid">
+    <helpsystem name="help">
+	  <textColor>FFFFFF</textColor>
+      <iconColor>FFFFFF</iconColor>
+      <fontPath>${bodyFont}</fontPath>
+      <fontSize>0.0375</fontSize><!-- 12px -->
+    </helpsystem>
+  </view>
+  
+</theme>
