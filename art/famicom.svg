@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>famicom</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -1104)">
+            <g id="famicom" transform="translate(0, 1104)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="Famicom" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="路径" points="0 0 12 0 12 2 2 2 2 8 10 8 10 10 2 10 2 18 0 18"></polygon>
+                    <path d="M22,8 L16,8 L16,6 L22,6 L22,8 Z M14,12 L16,12 L16,16 L14,16 L14,12 Z M24,18 L16,18 L16,16 L22,16 L22,12 L16,12 L16,10 L22,10 L22,8 L24,8 L24,18 Z" id="形状"></path>
+                    <path d="M34,6 L38,6 L38,8 L34,8 L34,6 Z M26,6 L32,6 L32,8 L28,8 L28,18 L26,18 L26,6 Z M32,8 L34,8 L34,18 L32,18 L32,8 Z M38,8 L40,8 L40,18 L38,18 L38,8 Z" id="形状"></path>
+                    <path d="M44,0 L46,0 L46,2 L44,2 L44,0 Z M44,8 L42,8 L42,6 L46,6 L46,16 L48,16 L48,18 L42,18 L42,16 L44,16 L44,8 Z" id="形状"></path>
+                    <path d="M58,8 L52,8 L52,6 L58,6 L58,8 Z M58,8 L60,8 L60,10 L58,10 L58,8 Z M50,8 L52,8 L52,16 L50,16 L50,8 Z M58,14 L60,14 L60,16 L58,16 L58,14 Z M58,18 L52,18 L52,16 L58,16 L58,18 Z" id="形状"></path>
+                    <path d="M70,8 L64,8 L64,6 L70,6 L70,8 Z M62,8 L64,8 L64,16 L62,16 L62,8 Z M70,8 L72,8 L72,16 L70,16 L70,8 Z M70,18 L64,18 L64,16 L70,16 L70,18 Z" id="形状"></path>
+                    <path d="M82,6 L86,6 L86,8 L82,8 L82,6 Z M74,6 L80,6 L80,8 L76,8 L76,18 L74,18 L74,6 Z M80,8 L82,8 L82,18 L80,18 L80,8 Z M86,8 L88,8 L88,18 L86,18 L86,8 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

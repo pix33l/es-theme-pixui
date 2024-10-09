@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>jaleco</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -2820)">
+            <g id="jaleco" transform="translate(0, 2820)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="Jaleco" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M0,12 L2,12 L2,16 L0,16 L0,12 Z M8,0 L10,0 L10,16 L8,16 L8,0 Z M8,18 L2,18 L2,16 L8,16 L8,18 Z" id="形状"></path>
+                    <path d="M20,8 L14,8 L14,6 L20,6 L20,8 Z M12,12 L14,12 L14,16 L12,16 L12,12 Z M22,18 L14,18 L14,16 L20,16 L20,12 L14,12 L14,10 L20,10 L20,8 L22,8 L22,18 Z" id="形状"></path>
+                    <polygon id="路径" points="26 2 24 2 24 0 28 0 28 16 30 16 30 18 26 18"></polygon>
+                    <path d="M40,8 L34,8 L34,6 L40,6 L40,8 Z M42,12 L34,12 L34,16 L32,16 L32,8 L34,8 L34,10 L40,10 L40,8 L42,8 L42,12 Z M40,14 L42,14 L42,16 L40,16 L40,14 Z M40,18 L34,18 L34,16 L40,16 L40,18 Z" id="形状"></path>
+                    <path d="M52,8 L46,8 L46,6 L52,6 L52,8 Z M52,8 L54,8 L54,10 L52,10 L52,8 Z M44,8 L46,8 L46,16 L44,16 L44,8 Z M52,14 L54,14 L54,16 L52,16 L52,14 Z M52,18 L46,18 L46,16 L52,16 L52,18 Z" id="形状"></path>
+                    <path d="M64,8 L58,8 L58,6 L64,6 L64,8 Z M56,8 L58,8 L58,16 L56,16 L56,8 Z M64,8 L66,8 L66,16 L64,16 L64,8 Z M64,18 L58,18 L58,16 L64,16 L64,18 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

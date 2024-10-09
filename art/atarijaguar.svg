@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>atarijaguar</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -840)">
+            <g id="atarijaguar" transform="translate(0, 840)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="Atari-Jaguar" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M6,0 L8,0 L8,4 L6,4 L6,0 Z M4,4 L6,4 L6,8 L4,8 L4,4 Z M8,4 L10,4 L10,8 L8,8 L8,4 Z M10,10 L10,8 L12,8 L12,14 L10,14 L10,12 L4,12 L4,14 L2,14 L2,8 L4,8 L4,10 L10,10 Z M0,14 L2,14 L2,18 L0,18 L0,14 Z M12,14 L14,14 L14,18 L12,18 L12,14 Z" id="形状"></path>
+                    <path d="M18,8 L16,8 L16,6 L18,6 L18,0 L20,0 L20,6 L24,6 L24,8 L20,8 L20,16 L18,16 L18,8 Z M24,18 L20,18 L20,16 L24,16 L24,18 Z" id="形状"></path>
+                    <path d="M34,8 L28,8 L28,6 L34,6 L34,8 Z M26,12 L28,12 L28,16 L26,16 L26,12 Z M36,18 L28,18 L28,16 L34,16 L34,12 L28,12 L28,10 L34,10 L34,8 L36,8 L36,18 Z" id="形状"></path>
+                    <path d="M46,8 L42,8 L42,6 L46,6 L46,8 Z M38,6 L40,6 L40,8 L42,8 L42,10 L40,10 L40,18 L38,18 L38,6 Z" id="形状"></path>
+                    <path d="M50,0 L52,0 L52,2 L50,2 L50,0 Z M50,8 L48,8 L48,6 L52,6 L52,16 L54,16 L54,18 L48,18 L48,16 L50,16 L50,8 Z" id="形状"></path>
+                    <path d="M68,12 L70,12 L70,16 L68,16 L68,12 Z M76,0 L78,0 L78,16 L76,16 L76,0 Z M76,18 L70,18 L70,16 L76,16 L76,18 Z" id="形状"></path>
+                    <path d="M88,8 L82,8 L82,6 L88,6 L88,8 Z M80,12 L82,12 L82,16 L80,16 L80,12 Z M90,18 L82,18 L82,16 L88,16 L88,12 L82,12 L82,10 L88,10 L88,8 L90,8 L90,18 Z" id="形状"></path>
+                    <path d="M92,8 L94,8 L94,16 L92,16 L92,8 Z M100,8 L94,8 L94,6 L102,6 L102,20 L100,20 L100,18 L94,18 L94,16 L100,16 L100,8 Z M100,20 L100,22 L94,22 L94,20 L100,20 Z" id="形状"></path>
+                    <path d="M104,6 L106,6 L106,16 L104,16 L104,6 Z M106,16 L110,16 L110,18 L106,18 L106,16 Z M112,6 L114,6 L114,18 L112,18 L112,16 L110,16 L110,14 L112,14 L112,6 Z" id="形状"></path>
+                    <path d="M124,8 L118,8 L118,6 L124,6 L124,8 Z M116,12 L118,12 L118,16 L116,16 L116,12 Z M126,18 L118,18 L118,16 L124,16 L124,12 L118,12 L118,10 L124,10 L124,8 L126,8 L126,18 Z" id="形状"></path>
+                    <path d="M136,8 L132,8 L132,6 L136,6 L136,8 Z M128,6 L130,6 L130,8 L132,8 L132,10 L130,10 L130,18 L128,18 L128,6 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

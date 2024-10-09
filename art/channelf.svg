@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>channelf</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -1808)">
+            <g id="channelf" transform="translate(0, 1808)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="Fairchild-Channel-F" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="路径" points="0 0 12 0 12 2 2 2 2 8 10 8 10 10 2 10 2 18 0 18"></polygon>
+                    <path d="M22,8 L16,8 L16,6 L22,6 L22,8 Z M14,12 L16,12 L16,16 L14,16 L14,12 Z M24,18 L16,18 L16,16 L22,16 L22,12 L16,12 L16,10 L22,10 L22,8 L24,8 L24,18 Z" id="形状"></path>
+                    <path d="M28,0 L30,0 L30,2 L28,2 L28,0 Z M28,8 L26,8 L26,6 L30,6 L30,16 L32,16 L32,18 L26,18 L26,16 L28,16 L28,8 Z" id="形状"></path>
+                    <path d="M42,8 L38,8 L38,6 L42,6 L42,8 Z M34,6 L36,6 L36,8 L38,8 L38,10 L36,10 L36,18 L34,18 L34,6 Z" id="形状"></path>
+                    <path d="M52,8 L46,8 L46,6 L52,6 L52,8 Z M52,8 L54,8 L54,10 L52,10 L52,8 Z M44,8 L46,8 L46,16 L44,16 L44,8 Z M52,14 L54,14 L54,16 L52,16 L52,14 Z M52,18 L46,18 L46,16 L52,16 L52,18 Z" id="形状"></path>
+                    <path d="M64,8 L60,8 L60,6 L64,6 L64,8 Z M56,0 L58,0 L58,8 L60,8 L60,10 L58,10 L58,18 L56,18 L56,0 Z M64,8 L66,8 L66,18 L64,18 L64,8 Z" id="形状"></path>
+                    <path d="M70,0 L72,0 L72,2 L70,2 L70,0 Z M70,8 L68,8 L68,6 L72,6 L72,16 L74,16 L74,18 L68,18 L68,16 L70,16 L70,8 Z" id="形状"></path>
+                    <polygon id="路径" points="78 2 76 2 76 0 80 0 80 16 82 16 82 18 78 18"></polygon>
+                    <path d="M84,8 L86,8 L86,16 L84,16 L84,8 Z M92,8 L86,8 L86,6 L92,6 L92,0 L94,0 L94,18 L86,18 L86,16 L92,16 L92,8 Z" id="形状"></path>
+                    <path d="M118,2 L112,2 L112,0 L118,0 L118,2 Z M110,2 L112,2 L112,4 L110,4 L110,2 Z M118,2 L120,2 L120,4 L118,4 L118,2 Z M108,4 L110,4 L110,14 L108,14 L108,4 Z M110,14 L112,14 L112,16 L110,16 L110,14 Z M118,14 L120,14 L120,16 L118,16 L118,14 Z M118,16 L118,18 L112,18 L112,16 L118,16 Z" id="形状"></path>
+                    <path d="M130,8 L126,8 L126,6 L130,6 L130,8 Z M122,0 L124,0 L124,8 L126,8 L126,10 L124,10 L124,18 L122,18 L122,0 Z M130,8 L132,8 L132,18 L130,18 L130,8 Z" id="形状"></path>
+                    <path d="M142,8 L136,8 L136,6 L142,6 L142,8 Z M134,12 L136,12 L136,16 L134,16 L134,12 Z M144,18 L136,18 L136,16 L142,16 L142,12 L136,12 L136,10 L142,10 L142,8 L144,8 L144,18 Z" id="形状"></path>
+                    <path d="M154,8 L150,8 L150,6 L154,6 L154,8 Z M146,6 L148,6 L148,8 L150,8 L150,10 L148,10 L148,18 L146,18 L146,6 Z M154,8 L156,8 L156,18 L154,18 L154,8 Z" id="形状"></path>
+                    <path d="M166,8 L162,8 L162,6 L166,6 L166,8 Z M158,6 L160,6 L160,8 L162,8 L162,10 L160,10 L160,18 L158,18 L158,6 Z M166,8 L168,8 L168,18 L166,18 L166,8 Z" id="形状"></path>
+                    <path d="M178,8 L172,8 L172,6 L178,6 L178,8 Z M180,12 L172,12 L172,16 L170,16 L170,8 L172,8 L172,10 L178,10 L178,8 L180,8 L180,12 Z M178,14 L180,14 L180,16 L178,16 L178,14 Z M178,18 L172,18 L172,16 L178,16 L178,18 Z" id="形状"></path>
+                    <polygon id="路径" points="184 2 182 2 182 0 186 0 186 16 188 16 188 18 184 18"></polygon>
+                    <polygon id="路径" points="202 0 214 0 214 2 204 2 204 8 212 8 212 10 204 10 204 18 202 18"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

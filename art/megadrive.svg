@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>megadrive</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -2424)">
+            <g id="megadrive" transform="translate(0, 2424)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="Mega-Drive" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M4,6 L6,6 L6,10 L4,10 L4,6 Z M12,6 L14,6 L14,10 L12,10 L12,6 Z M6,10 L8,10 L8,14 L6,14 L6,10 Z M10,10 L12,10 L12,14 L10,14 L10,10 Z M0,0 L2,0 L2,2 L4,2 L4,6 L2,6 L2,18 L0,18 L0,0 Z M8,14 L10,14 L10,18 L8,18 L8,14 Z M16,6 L14,6 L14,2 L16,2 L16,0 L18,0 L18,18 L16,18 L16,6 Z" id="形状"></path>
+                    <path d="M28,8 L22,8 L22,6 L28,6 L28,8 Z M30,12 L22,12 L22,16 L20,16 L20,8 L22,8 L22,10 L28,10 L28,8 L30,8 L30,12 Z M28,14 L30,14 L30,16 L28,16 L28,14 Z M28,18 L22,18 L22,16 L28,16 L28,18 Z" id="形状"></path>
+                    <path d="M32,8 L34,8 L34,16 L32,16 L32,8 Z M40,8 L34,8 L34,6 L42,6 L42,20 L40,20 L40,18 L34,18 L34,16 L40,16 L40,8 Z M40,20 L40,22 L34,22 L34,20 L40,20 Z" id="形状"></path>
+                    <path d="M52,8 L46,8 L46,6 L52,6 L52,8 Z M44,12 L46,12 L46,16 L44,16 L44,12 Z M54,18 L46,18 L46,16 L52,16 L52,12 L46,12 L46,10 L52,10 L52,8 L54,8 L54,18 Z" id="形状"></path>
+                    <path d="M76,2 L78,2 L78,4 L76,4 L76,2 Z M78,4 L80,4 L80,14 L78,14 L78,4 Z M76,14 L78,14 L78,16 L76,16 L76,14 Z M68,0 L76,0 L76,2 L70,2 L70,16 L76,16 L76,18 L68,18 L68,0 Z" id="形状"></path>
+                    <path d="M90,8 L86,8 L86,6 L90,6 L90,8 Z M82,6 L84,6 L84,8 L86,8 L86,10 L84,10 L84,18 L82,18 L82,6 Z" id="形状"></path>
+                    <path d="M94,0 L96,0 L96,2 L94,2 L94,0 Z M94,8 L92,8 L92,6 L96,6 L96,16 L98,16 L98,18 L92,18 L92,16 L94,16 L94,8 Z" id="形状"></path>
+                    <path d="M100,6 L102,6 L102,10 L100,10 L100,6 Z M108,6 L110,6 L110,10 L108,10 L108,6 Z M102,10 L104,10 L104,14 L102,14 L102,10 Z M106,10 L108,10 L108,14 L106,14 L106,10 Z M104,14 L106,14 L106,18 L104,18 L104,14 Z" id="形状"></path>
+                    <path d="M120,8 L114,8 L114,6 L120,6 L120,8 Z M122,12 L114,12 L114,16 L112,16 L112,8 L114,8 L114,10 L120,10 L120,8 L122,8 L122,12 Z M120,14 L122,14 L122,16 L120,16 L120,14 Z M120,18 L114,18 L114,16 L120,16 L120,18 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

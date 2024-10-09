@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>easyrpg</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -1236)">
+            <g id="easyrpg" transform="translate(0, 1236)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="Easyrpg" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="路径" points="0 0 12 0 12 2 2 2 2 8 10 8 10 10 2 10 2 16 12 16 12 18 0 18"></polygon>
+                    <path d="M22,8 L16,8 L16,6 L22,6 L22,8 Z M14,12 L16,12 L16,16 L14,16 L14,12 Z M24,18 L16,18 L16,16 L22,16 L22,12 L16,12 L16,10 L22,10 L22,8 L24,8 L24,18 Z" id="形状"></path>
+                    <path d="M34,8 L28,8 L28,6 L34,6 L34,8 Z M26,8 L28,8 L28,10 L26,10 L26,8 Z M34,8 L36,8 L36,10 L34,10 L34,8 Z M32,12 L28,12 L28,10 L32,10 L32,12 Z M32,12 L34,12 L34,14 L32,14 L32,12 Z M26,14 L28,14 L28,16 L26,16 L26,14 Z M34,14 L36,14 L36,16 L34,16 L34,14 Z M34,18 L28,18 L28,16 L34,16 L34,18 Z" id="形状"></path>
+                    <path d="M38,6 L40,6 L40,12 L38,12 L38,6 Z M46,6 L48,6 L48,12 L46,12 L46,6 Z M40,12 L42,12 L42,16 L40,16 L40,12 Z M44,12 L46,12 L46,16 L44,16 L44,12 Z M42,16 L44,16 L44,20 L42,20 L42,16 Z M38,20 L42,20 L42,22 L38,22 L38,20 Z" id="形状"></path>
+                    <path d="M58,8 L54,8 L54,6 L58,6 L58,8 Z M50,6 L52,6 L52,8 L54,8 L54,10 L52,10 L52,18 L50,18 L50,6 Z" id="形状"></path>
+                    <path d="M68,8 L70,8 L70,16 L68,16 L68,8 Z M68,8 L62,8 L62,16 L68,16 L68,18 L62,18 L62,22 L60,22 L60,6 L68,6 L68,8 Z" id="形状"></path>
+                    <path d="M72,8 L74,8 L74,16 L72,16 L72,8 Z M80,8 L74,8 L74,6 L82,6 L82,20 L80,20 L80,18 L74,18 L74,16 L80,16 L80,8 Z M80,20 L80,22 L74,22 L74,20 L80,20 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

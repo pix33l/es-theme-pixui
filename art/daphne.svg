@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>daphne</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -1456)">
+            <g id="daphne" transform="translate(0, 1456)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="Daphne" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M8,2 L10,2 L10,4 L8,4 L8,2 Z M10,4 L12,4 L12,14 L10,14 L10,4 Z M8,14 L10,14 L10,16 L8,16 L8,14 Z M0,0 L8,0 L8,2 L2,2 L2,16 L8,16 L8,18 L0,18 L0,0 Z" id="形状"></path>
+                    <path d="M22,8 L16,8 L16,6 L22,6 L22,8 Z M14,12 L16,12 L16,16 L14,16 L14,12 Z M24,18 L16,18 L16,16 L22,16 L22,12 L16,12 L16,10 L22,10 L22,8 L24,8 L24,18 Z" id="形状"></path>
+                    <path d="M34,8 L36,8 L36,16 L34,16 L34,8 Z M34,8 L28,8 L28,16 L34,16 L34,18 L28,18 L28,22 L26,22 L26,6 L34,6 L34,8 Z" id="形状"></path>
+                    <path d="M46,8 L42,8 L42,6 L46,6 L46,8 Z M38,0 L40,0 L40,8 L42,8 L42,10 L40,10 L40,18 L38,18 L38,0 Z M46,8 L48,8 L48,18 L46,18 L46,8 Z" id="形状"></path>
+                    <path d="M58,8 L54,8 L54,6 L58,6 L58,8 Z M50,6 L52,6 L52,8 L54,8 L54,10 L52,10 L52,18 L50,18 L50,6 Z M58,8 L60,8 L60,18 L58,18 L58,8 Z" id="形状"></path>
+                    <path d="M70,8 L64,8 L64,6 L70,6 L70,8 Z M72,12 L64,12 L64,16 L62,16 L62,8 L64,8 L64,10 L70,10 L70,8 L72,8 L72,12 Z M70,14 L72,14 L72,16 L70,16 L70,14 Z M70,18 L64,18 L64,16 L70,16 L70,18 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

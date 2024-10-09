@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>coco3</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -1764)">
+            <g id="coco3" transform="translate(0, 1764)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="CoCo3" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M10,2 L4,2 L4,0 L10,0 L10,2 Z M2,2 L4,2 L4,4 L2,4 L2,2 Z M10,2 L12,2 L12,4 L10,4 L10,2 Z M0,4 L2,4 L2,14 L0,14 L0,4 Z M2,14 L4,14 L4,16 L2,16 L2,14 Z M10,14 L12,14 L12,16 L10,16 L10,14 Z M10,16 L10,18 L4,18 L4,16 L10,16 Z" id="形状"></path>
+                    <path d="M22,8 L16,8 L16,6 L22,6 L22,8 Z M14,8 L16,8 L16,16 L14,16 L14,8 Z M22,8 L24,8 L24,16 L22,16 L22,8 Z M22,18 L16,18 L16,16 L22,16 L22,18 Z" id="形状"></path>
+                    <path d="M36,2 L30,2 L30,0 L36,0 L36,2 Z M28,2 L30,2 L30,4 L28,4 L28,2 Z M36,2 L38,2 L38,4 L36,4 L36,2 Z M26,4 L28,4 L28,14 L26,14 L26,4 Z M28,14 L30,14 L30,16 L28,16 L28,14 Z M36,14 L38,14 L38,16 L36,16 L36,14 Z M36,16 L36,18 L30,18 L30,16 L36,16 Z" id="形状"></path>
+                    <path d="M48,8 L42,8 L42,6 L48,6 L48,8 Z M40,8 L42,8 L42,16 L40,16 L40,8 Z M48,8 L50,8 L50,16 L48,16 L48,8 Z M48,18 L42,18 L42,16 L48,16 L48,18 Z" id="形状"></path>
+                    <path d="M60,0 L60,2 L54,2 L54,0 L60,0 Z M52,2 L54,2 L54,4 L52,4 L52,2 Z M60,2 L62,2 L62,8 L60,8 L60,2 Z M56,8 L60,8 L60,10 L56,10 L56,8 Z M52,14 L54,14 L54,16 L52,16 L52,14 Z M60,10 L62,10 L62,16 L60,16 L60,10 Z M60,18 L54,18 L54,16 L60,16 L60,18 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>love2d</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -2688)">
+            <g id="love2d" transform="translate(0, 2688)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="Love2d" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="路径" points="0 0 2 0 2 16 10 16 10 18 0 18"></polygon>
+                    <path d="M20,8 L14,8 L14,6 L20,6 L20,8 Z M12,8 L14,8 L14,16 L12,16 L12,8 Z M20,8 L22,8 L22,16 L20,16 L20,8 Z M20,18 L14,18 L14,16 L20,16 L20,18 Z" id="形状"></path>
+                    <path d="M24,6 L26,6 L26,10 L24,10 L24,6 Z M32,6 L34,6 L34,10 L32,10 L32,6 Z M26,10 L28,10 L28,14 L26,14 L26,10 Z M30,10 L32,10 L32,14 L30,14 L30,10 Z M28,14 L30,14 L30,18 L28,18 L28,14 Z" id="形状"></path>
+                    <path d="M44,8 L38,8 L38,6 L44,6 L44,8 Z M46,12 L38,12 L38,16 L36,16 L36,8 L38,8 L38,10 L44,10 L44,8 L46,8 L46,12 Z M44,14 L46,14 L46,16 L44,16 L44,14 Z M44,18 L38,18 L38,16 L44,16 L44,18 Z" id="形状"></path>
+                    <path d="M56,0 L56,2 L50,2 L50,0 L56,0 Z M48,2 L50,2 L50,4 L48,4 L48,2 Z M56,2 L58,2 L58,8 L56,8 L56,2 Z M54,8 L56,8 L56,10 L54,10 L54,8 Z M52,10 L54,10 L54,12 L52,12 L52,10 Z M50,12 L52,12 L52,14 L50,14 L50,12 Z M48,14 L50,14 L50,16 L58,16 L58,18 L48,18 L48,14 Z" id="形状"></path>
+                    <path d="M60,8 L62,8 L62,16 L60,16 L60,8 Z M68,8 L62,8 L62,6 L68,6 L68,0 L70,0 L70,18 L62,18 L62,16 L68,16 L68,8 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

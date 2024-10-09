@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>intellivision</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -2864)">
+            <g id="intellivision" transform="translate(0, 2864)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="Intellivision" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="路径" points="2 2 0 2 0 0 6 0 6 2 4 2 4 16 6 16 6 18 0 18 0 16 2 16"></polygon>
+                    <path d="M16,8 L12,8 L12,6 L16,6 L16,8 Z M8,6 L10,6 L10,8 L12,8 L12,10 L10,10 L10,18 L8,18 L8,6 Z M16,8 L18,8 L18,18 L16,18 L16,8 Z" id="形状"></path>
+                    <path d="M22,8 L20,8 L20,6 L22,6 L22,0 L24,0 L24,6 L28,6 L28,8 L24,8 L24,16 L22,16 L22,8 Z M28,18 L24,18 L24,16 L28,16 L28,18 Z" id="形状"></path>
+                    <path d="M38,8 L32,8 L32,6 L38,6 L38,8 Z M40,12 L32,12 L32,16 L30,16 L30,8 L32,8 L32,10 L38,10 L38,8 L40,8 L40,12 Z M38,14 L40,14 L40,16 L38,16 L38,14 Z M38,18 L32,18 L32,16 L38,16 L38,18 Z" id="形状"></path>
+                    <polygon id="路径" points="44 2 42 2 42 0 46 0 46 16 48 16 48 18 44 18"></polygon>
+                    <polygon id="路径" points="52 2 50 2 50 0 54 0 54 16 56 16 56 18 52 18"></polygon>
+                    <path d="M60,0 L62,0 L62,2 L60,2 L60,0 Z M60,8 L58,8 L58,6 L62,6 L62,16 L64,16 L64,18 L58,18 L58,16 L60,16 L60,8 Z" id="形状"></path>
+                    <path d="M66,6 L68,6 L68,10 L66,10 L66,6 Z M74,6 L76,6 L76,10 L74,10 L74,6 Z M68,10 L70,10 L70,14 L68,14 L68,10 Z M72,10 L74,10 L74,14 L72,14 L72,10 Z M70,14 L72,14 L72,18 L70,18 L70,14 Z" id="形状"></path>
+                    <path d="M80,0 L82,0 L82,2 L80,2 L80,0 Z M80,8 L78,8 L78,6 L82,6 L82,16 L84,16 L84,18 L78,18 L78,16 L80,16 L80,8 Z" id="形状"></path>
+                    <path d="M94,8 L88,8 L88,6 L94,6 L94,8 Z M86,8 L88,8 L88,10 L86,10 L86,8 Z M94,8 L96,8 L96,10 L94,10 L94,8 Z M92,12 L88,12 L88,10 L92,10 L92,12 Z M92,12 L94,12 L94,14 L92,14 L92,12 Z M86,14 L88,14 L88,16 L86,16 L86,14 Z M94,14 L96,14 L96,16 L94,16 L94,14 Z M94,18 L88,18 L88,16 L94,16 L94,18 Z" id="形状"></path>
+                    <path d="M100,0 L102,0 L102,2 L100,2 L100,0 Z M100,8 L98,8 L98,6 L102,6 L102,16 L104,16 L104,18 L98,18 L98,16 L100,16 L100,8 Z" id="形状"></path>
+                    <path d="M114,8 L108,8 L108,6 L114,6 L114,8 Z M106,8 L108,8 L108,16 L106,16 L106,8 Z M114,8 L116,8 L116,16 L114,16 L114,8 Z M114,18 L108,18 L108,16 L114,16 L114,18 Z" id="形状"></path>
+                    <path d="M126,8 L122,8 L122,6 L126,6 L126,8 Z M118,6 L120,6 L120,8 L122,8 L122,10 L120,10 L120,18 L118,18 L118,6 Z M126,8 L128,8 L128,18 L126,18 L126,8 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

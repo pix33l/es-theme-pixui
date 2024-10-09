@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>odyssey2</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -3656)">
+            <g id="odyssey2" transform="translate(0, 3656)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="Odyssey2" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M10,2 L4,2 L4,0 L10,0 L10,2 Z M2,2 L4,2 L4,4 L2,4 L2,2 Z M10,2 L12,2 L12,4 L10,4 L10,2 Z M0,4 L2,4 L2,14 L0,14 L0,4 Z M12,4 L14,4 L14,14 L12,14 L12,4 Z M2,14 L4,14 L4,16 L2,16 L2,14 Z M10,14 L12,14 L12,16 L10,16 L10,14 Z M10,16 L10,18 L4,18 L4,16 L10,16 Z" id="形状"></path>
+                    <path d="M16,8 L18,8 L18,16 L16,16 L16,8 Z M24,8 L18,8 L18,6 L24,6 L24,0 L26,0 L26,18 L18,18 L18,16 L24,16 L24,8 Z" id="形状"></path>
+                    <path d="M28,6 L30,6 L30,12 L28,12 L28,6 Z M36,6 L38,6 L38,12 L36,12 L36,6 Z M30,12 L32,12 L32,16 L30,16 L30,12 Z M34,12 L36,12 L36,16 L34,16 L34,12 Z M32,16 L34,16 L34,20 L32,20 L32,16 Z M28,20 L32,20 L32,22 L28,22 L28,20 Z" id="形状"></path>
+                    <path d="M48,8 L42,8 L42,6 L48,6 L48,8 Z M40,8 L42,8 L42,10 L40,10 L40,8 Z M48,8 L50,8 L50,10 L48,10 L48,8 Z M46,12 L42,12 L42,10 L46,10 L46,12 Z M46,12 L48,12 L48,14 L46,14 L46,12 Z M40,14 L42,14 L42,16 L40,16 L40,14 Z M48,14 L50,14 L50,16 L48,16 L48,14 Z M48,18 L42,18 L42,16 L48,16 L48,18 Z" id="形状"></path>
+                    <path d="M60,8 L54,8 L54,6 L60,6 L60,8 Z M52,8 L54,8 L54,10 L52,10 L52,8 Z M60,8 L62,8 L62,10 L60,10 L60,8 Z M58,12 L54,12 L54,10 L58,10 L58,12 Z M58,12 L60,12 L60,14 L58,14 L58,12 Z M52,14 L54,14 L54,16 L52,16 L52,14 Z M60,14 L62,14 L62,16 L60,16 L60,14 Z M60,18 L54,18 L54,16 L60,16 L60,18 Z" id="形状"></path>
+                    <path d="M72,8 L66,8 L66,6 L72,6 L72,8 Z M74,12 L66,12 L66,16 L64,16 L64,8 L66,8 L66,10 L72,10 L72,8 L74,8 L74,12 Z M72,14 L74,14 L74,16 L72,16 L72,14 Z M72,18 L66,18 L66,16 L72,16 L72,18 Z" id="形状"></path>
+                    <path d="M76,6 L78,6 L78,12 L76,12 L76,6 Z M84,6 L86,6 L86,12 L84,12 L84,6 Z M78,12 L80,12 L80,16 L78,16 L78,12 Z M82,12 L84,12 L84,16 L82,16 L82,12 Z M80,16 L82,16 L82,20 L80,20 L80,16 Z M76,20 L80,20 L80,22 L76,22 L76,20 Z" id="形状"></path>
+                    <path d="M96,0 L96,2 L90,2 L90,0 L96,0 Z M88,2 L90,2 L90,4 L88,4 L88,2 Z M96,2 L98,2 L98,8 L96,8 L96,2 Z M94,8 L96,8 L96,10 L94,10 L94,8 Z M92,10 L94,10 L94,12 L92,12 L92,10 Z M90,12 L92,12 L92,14 L90,14 L90,12 Z M88,14 L90,14 L90,16 L98,16 L98,18 L88,18 L88,14 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

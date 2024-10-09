@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dreamcast</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -1280)">
+            <g id="dreamcast" transform="translate(0, 1280)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="Dreamcast" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M8,2 L10,2 L10,4 L8,4 L8,2 Z M10,4 L12,4 L12,14 L10,14 L10,4 Z M8,14 L10,14 L10,16 L8,16 L8,14 Z M0,0 L8,0 L8,2 L2,2 L2,16 L8,16 L8,18 L0,18 L0,0 Z" id="形状"></path>
+                    <path d="M22,8 L18,8 L18,6 L22,6 L22,8 Z M14,6 L16,6 L16,8 L18,8 L18,10 L16,10 L16,18 L14,18 L14,6 Z" id="形状"></path>
+                    <path d="M32,8 L26,8 L26,6 L32,6 L32,8 Z M34,12 L26,12 L26,16 L24,16 L24,8 L26,8 L26,10 L32,10 L32,8 L34,8 L34,12 Z M32,14 L34,14 L34,16 L32,16 L32,14 Z M32,18 L26,18 L26,16 L32,16 L32,18 Z" id="形状"></path>
+                    <path d="M44,8 L38,8 L38,6 L44,6 L44,8 Z M36,12 L38,12 L38,16 L36,16 L36,12 Z M46,18 L38,18 L38,16 L44,16 L44,12 L38,12 L38,10 L44,10 L44,8 L46,8 L46,18 Z" id="形状"></path>
+                    <path d="M56,6 L60,6 L60,8 L56,8 L56,6 Z M48,6 L54,6 L54,8 L50,8 L50,18 L48,18 L48,6 Z M54,8 L56,8 L56,18 L54,18 L54,8 Z M60,8 L62,8 L62,18 L60,18 L60,8 Z" id="形状"></path>
+                    <path d="M72,8 L66,8 L66,6 L72,6 L72,8 Z M72,8 L74,8 L74,10 L72,10 L72,8 Z M64,8 L66,8 L66,16 L64,16 L64,8 Z M72,14 L74,14 L74,16 L72,16 L72,14 Z M72,18 L66,18 L66,16 L72,16 L72,18 Z" id="形状"></path>
+                    <path d="M84,8 L78,8 L78,6 L84,6 L84,8 Z M76,12 L78,12 L78,16 L76,16 L76,12 Z M86,18 L78,18 L78,16 L84,16 L84,12 L78,12 L78,10 L84,10 L84,8 L86,8 L86,18 Z" id="形状"></path>
+                    <path d="M96,8 L90,8 L90,6 L96,6 L96,8 Z M88,8 L90,8 L90,10 L88,10 L88,8 Z M96,8 L98,8 L98,10 L96,10 L96,8 Z M94,12 L90,12 L90,10 L94,10 L94,12 Z M94,12 L96,12 L96,14 L94,14 L94,12 Z M88,14 L90,14 L90,16 L88,16 L88,14 Z M96,14 L98,14 L98,16 L96,16 L96,14 Z M96,18 L90,18 L90,16 L96,16 L96,18 Z" id="形状"></path>
+                    <path d="M102,8 L100,8 L100,6 L102,6 L102,0 L104,0 L104,6 L108,6 L108,8 L104,8 L104,16 L102,16 L102,8 Z M108,18 L104,18 L104,16 L108,16 L108,18 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pcfx</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0, -4008)">
+            <g id="pcfx" transform="translate(0, 4008)">
+                <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+                <g id="PC-FX" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M10,2 L12,2 L12,8 L10,8 L10,2 Z M0,0 L10,0 L10,2 L2,2 L2,8 L10,8 L10,10 L2,10 L2,18 L0,18 L0,0 Z" id="形状"></path>
+                    <path d="M24,2 L18,2 L18,0 L24,0 L24,2 Z M16,2 L18,2 L18,4 L16,4 L16,2 Z M24,2 L26,2 L26,4 L24,4 L24,2 Z M14,4 L16,4 L16,14 L14,14 L14,4 Z M16,14 L18,14 L18,16 L16,16 L16,14 Z M24,14 L26,14 L26,16 L24,16 L24,14 Z M24,16 L24,18 L18,18 L18,16 L24,16 Z" id="形状"></path>
+                    <polygon id="路径" points="38 8 38 10 28 10 28 8"></polygon>
+                    <polygon id="路径" points="40 0 52 0 52 2 42 2 42 8 50 8 50 10 42 10 42 18 40 18"></polygon>
+                    <path d="M54,0 L56,0 L56,2 L54,2 L54,0 Z M66,0 L68,0 L68,2 L66,2 L66,0 Z M56,2 L58,2 L58,6 L56,6 L56,2 Z M64,2 L66,2 L66,6 L64,6 L64,2 Z M58,6 L60,6 L60,8 L58,8 L58,6 Z M62,6 L64,6 L64,8 L62,8 L62,6 Z M60,8 L62,8 L62,10 L60,10 L60,8 Z M58,10 L60,10 L60,12 L58,12 L58,10 Z M62,10 L64,10 L64,12 L62,12 L62,10 Z M56,12 L58,12 L58,16 L56,16 L56,12 Z M64,12 L66,12 L66,16 L64,16 L64,12 Z M54,16 L56,16 L56,18 L54,18 L54,16 Z M66,16 L68,16 L68,18 L66,18 L66,16 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
