@@ -13,9 +13,9 @@ themes: copy es-theme-pixui folder to the EASYROMS partition roms/themes.
 
 ### Optional (ArkOS Only)
 
-loading screen：copy loading.jpg file to the EASYROMS partition roms/launchimages overwriting the existing one.
+loading screen: copy loading.jpg file to the EASYROMS partition roms/launchimages overwriting the existing one.
 
-bootlogo：copy boot.bmp file to the BOOT partition overwriting the existing one.
+bootlogo: copy boot.bmp file to the BOOT partition overwriting the existing one.
 
 
 ## Preview
@@ -30,15 +30,15 @@ bootlogo：copy boot.bmp file to the BOOT partition overwriting the existing one
 
 ### basic view
 
-![preview_detail](https://pix3l.me/wp-content/uploads/2024/10/pixui-basic.jpg)
+![preview_basic](https://pix3l.me/wp-content/uploads/2024/10/pixui-basic.jpg)
 
 ### detail view
 
 ![preview_detail](https://pix3l.me/wp-content/uploads/2024/10/pixui-detail.jpg)
 
-### detail view
+### grid view
 
-![preview_detail](https://pix3l.me/wp-content/uploads/2024/10/pixui-grid.jpg)
+![preview_grid](https://pix3l.me/wp-content/uploads/2024/10/pixui-grid.jpg)
 
 
 ## Inspiration
@@ -46,9 +46,11 @@ bootlogo：copy boot.bmp file to the BOOT partition overwriting the existing one
 Analogue OS
 
 MinUARK
+
 https://github.com/Vidnez/es-theme-MinUArk
 
 Fusion Pixel Font
+
 https://github.com/TakWolf/fusion-pixel-font
 
 
