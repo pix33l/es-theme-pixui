@@ -129,8 +129,8 @@ Author: PIX3L
   <view name="detailed">
 	
     <textlist name="gamelist">
-      <pos>0.025 0.0875</pos>
-      <size>0.525 0.875</size>
+      <pos>0.025 0.0875</pos><!-- 12px 28px -->
+      <size>0.525 0.875</size><!-- 252px 280px -->
       <selectorImagePath>./assets/selector_bar.png</selectorImagePath>
     </textlist>
     
@@ -152,8 +152,8 @@ Author: PIX3L
 	
     <video name="md_video">
 	    <origin>0.5 0.5</origin>
-      <pos>0.7875 0.325</pos>
-      <maxSize>0.375 0.45</maxSize>
+      <pos>0.7875 0.325</pos><!-- 378px 104px -->
+      <maxSize>0.375 0.45</maxSize><!-- 180px 144px -->
       <delay>3</delay>
       <showSnapshotNoVideo>true</showSnapshotNoVideo>
       <showSnapshotDelay>true</showSnapshotDelay>
@@ -163,7 +163,7 @@ Author: PIX3L
 	
     <text name="md_description">
 	    <pos>0.6 0.6</pos>
-      <size>0.375 0.375</size>
+      <size>0.375 0.375</size><!-- 180px 120px -->
       <color>${fontNormalColor}</color>
       <fontSize>0.0375</fontSize><!-- 12px -->
       <fontPath>${bodyFont}</fontPath>

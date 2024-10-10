@@ -9,11 +9,11 @@ Only test in Powkiddy V10
 
 ## Installation
 
-themes: copy es-theme-pixui folder to the EASYROM partition roms/themes.
+themes: copy es-theme-pixui folder to the EASYROMS partition roms/themes.
 
 ### Optional (ArkOS Only)
 
-loading screen：copy loading.jpg file to the EASYROM partition roms/launchimages overwriting the existing one.
+loading screen：copy loading.jpg file to the EASYROMS partition roms/launchimages overwriting the existing one.
 
 bootlogo：copy boot.bmp file to the BOOT partition overwriting the existing one.
 
@@ -28,9 +28,17 @@ bootlogo：copy boot.bmp file to the BOOT partition overwriting the existing one
 
 ![preview_system](https://pix3l.me/wp-content/uploads/2024/10/pixui-system.jpg)
 
+### basic view
+
+![preview_detail](https://pix3l.me/wp-content/uploads/2024/10/pixui-basic.jpg)
+
 ### detail view
 
 ![preview_detail](https://pix3l.me/wp-content/uploads/2024/10/pixui-detail.jpg)
+
+### detail view
+
+![preview_detail](https://pix3l.me/wp-content/uploads/2024/10/pixui-grid.jpg)
 
 
 ## Inspiration
@@ -40,7 +48,7 @@ Analogue OS
 MinUARK
 https://github.com/Vidnez/es-theme-MinUArk
 
-fusion-pixel-font
+Fusion Pixel Font
 https://github.com/TakWolf/fusion-pixel-font
 
 
