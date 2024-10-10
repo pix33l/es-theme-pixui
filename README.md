@@ -6,6 +6,18 @@ Only test in Powkiddy V10
 
 *The system icon is currently 70% complete
 
+
+## Installation
+
+themes: copy es-theme-pixui folder to the EASYROM partition roms/themes.
+
+### Optional (ArkOS Only)
+
+loading screen：copy loading.jpg file to the EASYROM partition roms/launchimages overwriting the existing one.
+
+bootlogo：copy boot.bmp file to the BOOT partition overwriting the existing one.
+
+
 ## Preview
 
 ### boot
@@ -20,7 +32,15 @@ Only test in Powkiddy V10
 
 ![preview_detail](https://pix3l.me/wp-content/uploads/2024/10/pixui-detail.jpg)
 
-### fonts:
+
+## Inspiration
+
+Analogue OS
+
+MinUARK
+https://github.com/Vidnez/es-theme-MinUArk
+
+fusion-pixel-font
 https://github.com/TakWolf/fusion-pixel-font
 
 
