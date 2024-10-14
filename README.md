@@ -34,7 +34,7 @@ bootlogo: copy boot.bmp file to the BOOT partition overwriting the existing one.
 
 ### detail view
 
-![preview_detail](https://pix3l.me/wp-content/uploads/2024/10/pixui-detail)
+![preview_detail](https://pix3l.me/wp-content/uploads/2024/10/pixui-detail.jpg)
 
 ### grid view
 
