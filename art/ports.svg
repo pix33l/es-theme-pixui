@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ports</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ports">
+            <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+            <g id="Ports" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M10,2 L12,2 L12,8 L10,8 L10,2 Z M0,0 L10,0 L10,2 L2,2 L2,8 L10,8 L10,10 L2,10 L2,18 L0,18 L0,0 Z" id="形状"></path>
+                <path d="M22,8 L16,8 L16,6 L22,6 L22,8 Z M14,8 L16,8 L16,16 L14,16 L14,8 Z M22,8 L24,8 L24,16 L22,16 L22,8 Z M22,18 L16,18 L16,16 L22,16 L22,18 Z" id="形状"></path>
+                <path d="M34,8 L30,8 L30,6 L34,6 L34,8 Z M26,6 L28,6 L28,8 L30,8 L30,10 L28,10 L28,18 L26,18 L26,6 Z" id="形状"></path>
+                <path d="M38,8 L36,8 L36,6 L38,6 L38,0 L40,0 L40,6 L44,6 L44,8 L40,8 L40,16 L38,16 L38,8 Z M44,18 L40,18 L40,16 L44,16 L44,18 Z" id="形状"></path>
+                <path d="M54,8 L48,8 L48,6 L54,6 L54,8 Z M46,8 L48,8 L48,10 L46,10 L46,8 Z M54,8 L56,8 L56,10 L54,10 L54,8 Z M52,12 L48,12 L48,10 L52,10 L52,12 Z M52,12 L54,12 L54,14 L52,14 L52,12 Z M46,14 L48,14 L48,16 L46,16 L46,14 Z M54,14 L56,14 L56,16 L54,16 L54,14 Z M54,18 L48,18 L48,16 L54,16 L54,18 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

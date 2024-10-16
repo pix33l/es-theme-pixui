@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tic80</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tic80">
+            <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+            <g id="Tic-80" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="路径" points="6 2 0 2 0 0 14 0 14 2 8 2 8 18 6 18"></polygon>
+                <path d="M18,0 L20,0 L20,2 L18,2 L18,0 Z M18,8 L16,8 L16,6 L20,6 L20,16 L22,16 L22,18 L16,18 L16,16 L18,16 L18,8 Z" id="形状"></path>
+                <path d="M32,8 L26,8 L26,6 L32,6 L32,8 Z M32,8 L34,8 L34,10 L32,10 L32,8 Z M24,8 L26,8 L26,16 L24,16 L24,8 Z M32,14 L34,14 L34,16 L32,16 L32,14 Z M32,18 L26,18 L26,16 L32,16 L32,18 Z" id="形状"></path>
+                <polygon id="路径" points="46 8 46 10 36 10 36 8"></polygon>
+                <path d="M56,0 L56,2 L50,2 L50,0 L56,0 Z M48,2 L50,2 L50,8 L48,8 L48,2 Z M56,2 L58,2 L58,8 L56,8 L56,2 Z M56,8 L56,10 L50,10 L50,8 L56,8 Z M48,10 L50,10 L50,16 L48,16 L48,10 Z M56,10 L58,10 L58,16 L56,16 L56,10 Z M56,18 L50,18 L50,16 L56,16 L56,18 Z" id="形状"></path>
+                <path d="M68,0 L68,2 L62,2 L62,0 L68,0 Z M64,8 L66,8 L66,10 L64,10 L64,8 Z M60,2 L62,2 L62,10 L64,10 L64,12 L62,12 L62,16 L60,16 L60,2 Z M68,8 L66,8 L66,6 L68,6 L68,2 L70,2 L70,16 L68,16 L68,8 Z M68,18 L62,18 L62,16 L68,16 L68,18 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

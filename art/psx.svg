@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>psx</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="psx">
+            <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+            <g id="PlayStation" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M10,2 L12,2 L12,8 L10,8 L10,2 Z M0,0 L10,0 L10,2 L2,2 L2,8 L10,8 L10,10 L2,10 L2,18 L0,18 L0,0 Z" id="形状"></path>
+                <polygon id="路径" points="16 2 14 2 14 0 18 0 18 16 20 16 20 18 16 18"></polygon>
+                <path d="M30,8 L24,8 L24,6 L30,6 L30,8 Z M22,12 L24,12 L24,16 L22,16 L22,12 Z M32,18 L24,18 L24,16 L30,16 L30,12 L24,12 L24,10 L30,10 L30,8 L32,8 L32,18 Z" id="形状"></path>
+                <path d="M34,6 L36,6 L36,12 L34,12 L34,6 Z M42,6 L44,6 L44,12 L42,12 L42,6 Z M36,12 L38,12 L38,16 L36,16 L36,12 Z M40,12 L42,12 L42,16 L40,16 L40,12 Z M38,16 L40,16 L40,20 L38,20 L38,16 Z M34,20 L38,20 L38,22 L34,22 L34,20 Z" id="形状"></path>
+                <path d="M56,2 L48,2 L48,0 L56,0 L56,2 Z M56,2 L58,2 L58,4 L56,4 L56,2 Z M46,2 L48,2 L48,6 L46,6 L46,2 Z M48,6 L50,6 L50,8 L48,8 L48,6 Z M50,8 L54,8 L54,10 L50,10 L50,8 Z M54,10 L56,10 L56,12 L54,12 L54,10 Z M46,14 L48,14 L48,16 L46,16 L46,14 Z M56,12 L58,12 L58,16 L56,16 L56,12 Z M56,16 L56,18 L48,18 L48,16 L56,16 Z" id="形状"></path>
+                <path d="M62,8 L60,8 L60,6 L62,6 L62,0 L64,0 L64,6 L68,6 L68,8 L64,8 L64,16 L62,16 L62,8 Z M68,18 L64,18 L64,16 L68,16 L68,18 Z" id="形状"></path>
+                <path d="M78,8 L72,8 L72,6 L78,6 L78,8 Z M70,12 L72,12 L72,16 L70,16 L70,12 Z M80,18 L72,18 L72,16 L78,16 L78,12 L72,12 L72,10 L78,10 L78,8 L80,8 L80,18 Z" id="形状"></path>
+                <path d="M84,8 L82,8 L82,6 L84,6 L84,0 L86,0 L86,6 L90,6 L90,8 L86,8 L86,16 L84,16 L84,8 Z M90,18 L86,18 L86,16 L90,16 L90,18 Z" id="形状"></path>
+                <path d="M94,0 L96,0 L96,2 L94,2 L94,0 Z M94,8 L92,8 L92,6 L96,6 L96,16 L98,16 L98,18 L92,18 L92,16 L94,16 L94,8 Z" id="形状"></path>
+                <path d="M108,8 L102,8 L102,6 L108,6 L108,8 Z M100,8 L102,8 L102,16 L100,16 L100,8 Z M108,8 L110,8 L110,16 L108,16 L108,8 Z M108,18 L102,18 L102,16 L108,16 L108,18 Z" id="形状"></path>
+                <path d="M120,8 L116,8 L116,6 L120,6 L120,8 Z M112,6 L114,6 L114,8 L116,8 L116,10 L114,10 L114,18 L112,18 L112,6 Z M120,8 L122,8 L122,18 L120,18 L120,8 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

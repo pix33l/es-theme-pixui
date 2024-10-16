@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sg-1000</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sg-1000">
+            <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+            <g id="SG-1000" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M10,2 L2,2 L2,0 L10,0 L10,2 Z M10,2 L12,2 L12,4 L10,4 L10,2 Z M0,2 L2,2 L2,6 L0,6 L0,2 Z M2,6 L4,6 L4,8 L2,8 L2,6 Z M4,8 L8,8 L8,10 L4,10 L4,8 Z M8,10 L10,10 L10,12 L8,12 L8,10 Z M0,14 L2,14 L2,16 L0,16 L0,14 Z M10,12 L12,12 L12,16 L10,16 L10,12 Z M10,16 L10,18 L2,18 L2,16 L10,16 Z" id="形状"></path>
+                <path d="M24,2 L18,2 L18,0 L24,0 L24,2 Z M16,2 L18,2 L18,4 L16,4 L16,2 Z M24,2 L26,2 L26,4 L24,4 L24,2 Z M14,4 L16,4 L16,14 L14,14 L14,4 Z M16,14 L18,14 L18,16 L16,16 L16,14 Z M22,10 L26,10 L26,18 L18,18 L18,16 L24,16 L24,12 L22,12 L22,10 Z" id="形状"></path>
+                <polygon id="路径" points="38 8 38 10 28 10 28 8"></polygon>
+                <path d="M40,4 L42,4 L42,6 L40,6 L40,4 Z M50,18 L40,18 L40,16 L44,16 L44,4 L42,4 L42,2 L44,2 L44,0 L46,0 L46,16 L50,16 L50,18 Z" id="形状"></path>
+                <path d="M60,0 L60,2 L54,2 L54,0 L60,0 Z M56,8 L58,8 L58,10 L56,10 L56,8 Z M52,2 L54,2 L54,10 L56,10 L56,12 L54,12 L54,16 L52,16 L52,2 Z M60,8 L58,8 L58,6 L60,6 L60,2 L62,2 L62,16 L60,16 L60,8 Z M60,18 L54,18 L54,16 L60,16 L60,18 Z" id="形状"></path>
+                <path d="M72,0 L72,2 L66,2 L66,0 L72,0 Z M68,8 L70,8 L70,10 L68,10 L68,8 Z M64,2 L66,2 L66,10 L68,10 L68,12 L66,12 L66,16 L64,16 L64,2 Z M72,8 L70,8 L70,6 L72,6 L72,2 L74,2 L74,16 L72,16 L72,8 Z M72,18 L66,18 L66,16 L72,16 L72,18 Z" id="形状"></path>
+                <path d="M84,0 L84,2 L78,2 L78,0 L84,0 Z M80,8 L82,8 L82,10 L80,10 L80,8 Z M76,2 L78,2 L78,10 L80,10 L80,12 L78,12 L78,16 L76,16 L76,2 Z M84,8 L82,8 L82,6 L84,6 L84,2 L86,2 L86,16 L84,16 L84,8 Z M84,18 L78,18 L78,16 L84,16 L84,18 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

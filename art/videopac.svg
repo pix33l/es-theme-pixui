@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>videopac</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="videopac">
+            <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+            <g id="Videopac" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M0,0 L2,0 L2,4 L0,4 L0,0 Z M12,0 L14,0 L14,4 L12,4 L12,0 Z M2,4 L4,4 L4,10 L2,10 L2,4 Z M10,4 L12,4 L12,10 L10,10 L10,4 Z M4,10 L6,10 L6,14 L4,14 L4,10 Z M8,10 L10,10 L10,14 L8,14 L8,10 Z M6,14 L8,14 L8,18 L6,18 L6,14 Z" id="形状"></path>
+                <path d="M18,0 L20,0 L20,2 L18,2 L18,0 Z M18,8 L16,8 L16,6 L20,6 L20,16 L22,16 L22,18 L16,18 L16,16 L18,16 L18,8 Z" id="形状"></path>
+                <path d="M24,8 L26,8 L26,16 L24,16 L24,8 Z M32,8 L26,8 L26,6 L32,6 L32,0 L34,0 L34,18 L26,18 L26,16 L32,16 L32,8 Z" id="形状"></path>
+                <path d="M44,8 L38,8 L38,6 L44,6 L44,8 Z M46,12 L38,12 L38,16 L36,16 L36,8 L38,8 L38,10 L44,10 L44,8 L46,8 L46,12 Z M44,14 L46,14 L46,16 L44,16 L44,14 Z M44,18 L38,18 L38,16 L44,16 L44,18 Z" id="形状"></path>
+                <path d="M56,8 L50,8 L50,6 L56,6 L56,8 Z M48,8 L50,8 L50,16 L48,16 L48,8 Z M56,8 L58,8 L58,16 L56,16 L56,8 Z M56,18 L50,18 L50,16 L56,16 L56,18 Z" id="形状"></path>
+                <path d="M68,8 L70,8 L70,16 L68,16 L68,8 Z M68,8 L62,8 L62,16 L68,16 L68,18 L62,18 L62,22 L60,22 L60,6 L68,6 L68,8 Z" id="形状"></path>
+                <path d="M80,8 L74,8 L74,6 L80,6 L80,8 Z M72,12 L74,12 L74,16 L72,16 L72,12 Z M82,18 L74,18 L74,16 L80,16 L80,12 L74,12 L74,10 L80,10 L80,8 L82,8 L82,18 Z" id="形状"></path>
+                <path d="M92,8 L86,8 L86,6 L92,6 L92,8 Z M92,8 L94,8 L94,10 L92,10 L92,8 Z M84,8 L86,8 L86,16 L84,16 L84,8 Z M92,14 L94,14 L94,16 L92,16 L92,14 Z M92,18 L86,18 L86,16 L92,16 L92,18 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

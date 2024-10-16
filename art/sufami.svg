@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sufami</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sufami">
+            <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+            <g id="SuFami-Turbo" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M10,2 L2,2 L2,0 L10,0 L10,2 Z M10,2 L12,2 L12,4 L10,4 L10,2 Z M0,2 L2,2 L2,6 L0,6 L0,2 Z M2,6 L4,6 L4,8 L2,8 L2,6 Z M4,8 L8,8 L8,10 L4,10 L4,8 Z M8,10 L10,10 L10,12 L8,12 L8,10 Z M0,14 L2,14 L2,16 L0,16 L0,14 Z M10,12 L12,12 L12,16 L10,16 L10,12 Z M10,16 L10,18 L2,18 L2,16 L10,16 Z" id="形状"></path>
+                <path d="M14,6 L16,6 L16,16 L14,16 L14,6 Z M16,16 L20,16 L20,18 L16,18 L16,16 Z M22,6 L24,6 L24,18 L22,18 L22,16 L20,16 L20,14 L22,14 L22,6 Z" id="形状"></path>
+                <polygon id="路径" points="26 0 38 0 38 2 28 2 28 8 36 8 36 10 28 10 28 18 26 18"></polygon>
+                <path d="M48,8 L42,8 L42,6 L48,6 L48,8 Z M40,12 L42,12 L42,16 L40,16 L40,12 Z M50,18 L42,18 L42,16 L48,16 L48,12 L42,12 L42,10 L48,10 L48,8 L50,8 L50,18 Z" id="形状"></path>
+                <path d="M60,6 L64,6 L64,8 L60,8 L60,6 Z M52,6 L58,6 L58,8 L54,8 L54,18 L52,18 L52,6 Z M58,8 L60,8 L60,18 L58,18 L58,8 Z M64,8 L66,8 L66,18 L64,18 L64,8 Z" id="形状"></path>
+                <path d="M70,0 L72,0 L72,2 L70,2 L70,0 Z M70,8 L68,8 L68,6 L72,6 L72,16 L74,16 L74,18 L68,18 L68,16 L70,16 L70,8 Z" id="形状"></path>
+                <polygon id="路径" points="94 2 88 2 88 0 102 0 102 2 96 2 96 18 94 18"></polygon>
+                <path d="M104,6 L106,6 L106,16 L104,16 L104,6 Z M106,16 L110,16 L110,18 L106,18 L106,16 Z M112,6 L114,6 L114,18 L112,18 L112,16 L110,16 L110,14 L112,14 L112,6 Z" id="形状"></path>
+                <path d="M124,8 L120,8 L120,6 L124,6 L124,8 Z M116,6 L118,6 L118,8 L120,8 L120,10 L118,10 L118,18 L116,18 L116,6 Z" id="形状"></path>
+                <path d="M134,8 L136,8 L136,16 L134,16 L134,8 Z M126,0 L128,0 L128,6 L134,6 L134,8 L128,8 L128,16 L134,16 L134,18 L126,18 L126,0 Z" id="形状"></path>
+                <path d="M146,8 L140,8 L140,6 L146,6 L146,8 Z M138,8 L140,8 L140,16 L138,16 L138,8 Z M146,8 L148,8 L148,16 L146,16 L146,8 Z M146,18 L140,18 L140,16 L146,16 L146,18 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

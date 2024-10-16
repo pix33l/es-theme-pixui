@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>uzebox</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="uzebox">
+            <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+            <g id="Uzebox" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M0,0 L2,0 L2,16 L0,16 L0,0 Z M10,0 L12,0 L12,16 L10,16 L10,0 Z M10,16 L10,18 L2,18 L2,16 L10,16 Z" id="形状"></path>
+                <path d="M24,6 L24,8 L22,8 L22,10 L20,10 L20,8 L14,8 L14,6 L24,6 Z M18,10 L20,10 L20,12 L18,12 L18,10 Z M16,12 L18,12 L18,14 L16,14 L16,12 Z M14,14 L16,14 L16,16 L24,16 L24,18 L14,18 L14,14 Z" id="形状"></path>
+                <path d="M34,8 L28,8 L28,6 L34,6 L34,8 Z M36,12 L28,12 L28,16 L26,16 L26,8 L28,8 L28,10 L34,10 L34,8 L36,8 L36,12 Z M34,14 L36,14 L36,16 L34,16 L34,14 Z M34,18 L28,18 L28,16 L34,16 L34,18 Z" id="形状"></path>
+                <path d="M46,8 L48,8 L48,16 L46,16 L46,8 Z M38,0 L40,0 L40,6 L46,6 L46,8 L40,8 L40,16 L46,16 L46,18 L38,18 L38,0 Z" id="形状"></path>
+                <path d="M58,8 L52,8 L52,6 L58,6 L58,8 Z M50,8 L52,8 L52,16 L50,16 L50,8 Z M58,8 L60,8 L60,16 L58,16 L58,8 Z M58,18 L52,18 L52,16 L58,16 L58,18 Z" id="形状"></path>
+                <path d="M62,6 L64,6 L64,8 L62,8 L62,6 Z M70,6 L72,6 L72,8 L70,8 L70,6 Z M64,8 L66,8 L66,10 L64,10 L64,8 Z M68,8 L70,8 L70,10 L68,10 L68,8 Z M66,10 L68,10 L68,14 L66,14 L66,10 Z M64,14 L66,14 L66,16 L64,16 L64,14 Z M68,14 L70,14 L70,16 L68,16 L68,14 Z M62,16 L64,16 L64,18 L62,18 L62,16 Z M70,16 L72,16 L72,18 L70,18 L70,16 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>vhs</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vhs">
+            <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+            <g id="Movies" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M4,6 L6,6 L6,10 L4,10 L4,6 Z M12,6 L14,6 L14,10 L12,10 L12,6 Z M6,10 L8,10 L8,14 L6,14 L6,10 Z M10,10 L12,10 L12,14 L10,14 L10,10 Z M0,0 L2,0 L2,2 L4,2 L4,6 L2,6 L2,18 L0,18 L0,0 Z M8,14 L10,14 L10,18 L8,18 L8,14 Z M16,6 L14,6 L14,2 L16,2 L16,0 L18,0 L18,18 L16,18 L16,6 Z" id="形状"></path>
+                <path d="M28,8 L22,8 L22,6 L28,6 L28,8 Z M20,8 L22,8 L22,16 L20,16 L20,8 Z M28,8 L30,8 L30,16 L28,16 L28,8 Z M28,18 L22,18 L22,16 L28,16 L28,18 Z" id="形状"></path>
+                <path d="M32,6 L34,6 L34,10 L32,10 L32,6 Z M40,6 L42,6 L42,10 L40,10 L40,6 Z M34,10 L36,10 L36,14 L34,14 L34,10 Z M38,10 L40,10 L40,14 L38,14 L38,10 Z M36,14 L38,14 L38,18 L36,18 L36,14 Z" id="形状"></path>
+                <path d="M46,0 L48,0 L48,2 L46,2 L46,0 Z M46,8 L44,8 L44,6 L48,6 L48,16 L50,16 L50,18 L44,18 L44,16 L46,16 L46,8 Z" id="形状"></path>
+                <path d="M60,8 L54,8 L54,6 L60,6 L60,8 Z M62,12 L54,12 L54,16 L52,16 L52,8 L54,8 L54,10 L60,10 L60,8 L62,8 L62,12 Z M60,14 L62,14 L62,16 L60,16 L60,14 Z M60,18 L54,18 L54,16 L60,16 L60,18 Z" id="形状"></path>
+                <path d="M72,8 L66,8 L66,6 L72,6 L72,8 Z M64,8 L66,8 L66,10 L64,10 L64,8 Z M72,8 L74,8 L74,10 L72,10 L72,8 Z M70,12 L66,12 L66,10 L70,10 L70,12 Z M70,12 L72,12 L72,14 L70,14 L70,12 Z M64,14 L66,14 L66,16 L64,16 L64,14 Z M72,14 L74,14 L74,16 L72,16 L72,14 Z M72,18 L66,18 L66,16 L72,16 L72,18 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

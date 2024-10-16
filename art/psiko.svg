@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="40px" viewBox="0 0 372 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>psiko</title>
+    <g id="system-list" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="psiko">
+            <rect id="矩形备份-6" x="0" y="0" width="372" height="40"></rect>
+            <g id="Psiko" transform="translate(24, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M10,2 L12,2 L12,8 L10,8 L10,2 Z M0,0 L10,0 L10,2 L2,2 L2,8 L10,8 L10,10 L2,10 L2,18 L0,18 L0,0 Z" id="形状"></path>
+                <path d="M22,8 L16,8 L16,6 L22,6 L22,8 Z M14,8 L16,8 L16,10 L14,10 L14,8 Z M22,8 L24,8 L24,10 L22,10 L22,8 Z M20,12 L16,12 L16,10 L20,10 L20,12 Z M20,12 L22,12 L22,14 L20,14 L20,12 Z M14,14 L16,14 L16,16 L14,16 L14,14 Z M22,14 L24,14 L24,16 L22,16 L22,14 Z M22,18 L16,18 L16,16 L22,16 L22,18 Z" id="形状"></path>
+                <path d="M28,0 L30,0 L30,2 L28,2 L28,0 Z M28,8 L26,8 L26,6 L30,6 L30,16 L32,16 L32,18 L26,18 L26,16 L28,16 L28,8 Z" id="形状"></path>
+                <path d="M42,6 L44,6 L44,8 L42,8 L42,6 Z M38,8 L42,8 L42,10 L38,10 L38,8 Z M38,12 L40,12 L40,14 L38,14 L38,12 Z M40,14 L42,14 L42,16 L40,16 L40,14 Z M34,0 L36,0 L36,10 L38,10 L38,12 L36,12 L36,18 L34,18 L34,0 Z M42,16 L44,16 L44,18 L42,18 L42,16 Z" id="形状"></path>
+                <path d="M54,8 L48,8 L48,6 L54,6 L54,8 Z M46,8 L48,8 L48,16 L46,16 L46,8 Z M54,8 L56,8 L56,16 L54,16 L54,8 Z M54,18 L48,18 L48,16 L54,16 L54,18 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>
